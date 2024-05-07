@@ -33,14 +33,12 @@ MIT License - The License file is provided here : (./LICENSE)
 ## Screenshot
 
 - Screenshots located in "./assets/"
-- Online screenshots: 
-- Walkthrough video: 
-
+- Online screenshots: https://imgur.com/a/KMCBPk2
 
 ## GitHub Repository
 
 - Github Repository: https://github.com/dantean/Note-Taker
-
+- Live Link: https://dantean-notetaker-0e5551494fd1.herokuapp.com/
 
 ## Credit Where Credit Is Due
 
